@@ -54,7 +54,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("1단원-요구사항 확인")
+st.title("2단원-화면설계")
 
 total = len(st.session_state.questions)
 current = st.session_state.index
